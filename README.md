@@ -21,12 +21,12 @@ A Collection of my dot files, configurations and setup etc.
 #### IDE Plugins
 
 Plugins:
-    * `Vim` emulation plugin.
-    * `Python` 
-    * `Go`
-    * `Atom One Dark Theme`
-    * `Material Theme Icons`
-    * `Material Icon Theme`
+ * `Vim` emulation plugin.
+ * `Python` 
+ * `Go`
+ * `Atom One Dark Theme`
+ * `Material Theme Icons`
+ * `Material Icon Theme`
 
 -----
 
