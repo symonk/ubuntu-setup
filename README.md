@@ -13,7 +13,7 @@ A Collection of my dot files, configurations and setup etc.
  * `google-chrome`
  * `tilix terminal`
  * `WhiteSur` theme and icons
- * `Visual Studio Code
+ * `Visual Studio Code`
 
  -----
 
