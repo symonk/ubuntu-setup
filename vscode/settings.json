@@ -1,1 +1,26 @@
 # Settings.json for vscode;
+{
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "onFocusChange",
+    "prettier.configPath": "frontend/prettierrc.js",
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "terminal.integrated.automationProfile.linux": {
+    },
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "explorer.confirmDragAndDrop": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorCustomizations": {},
+    "vsicons.dontShowNewVersionMessage": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.analysis.inlayHints.pytestParameters": true,
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.scrollback": 3000
+}
