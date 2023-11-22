@@ -14,7 +14,8 @@ A Collection of my dot files, configurations and setup etc.
  * `tilix terminal`
  * `WhiteSur` theme and icons
  * `Visual Studio Code`
-
+ * `Docker`
+ * `GitLens`
  -----
 
 
